@@ -1,4 +1,3 @@
-@@ -1,33 +1,31 @@
 ### Hi , I'm Yoana Malinova :tulip: 
 I am a Front End Web Developer in the makes. </br>
 
