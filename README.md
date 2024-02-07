@@ -1,5 +1,5 @@
 <h2>Hi , I'm Yoana :tulip:</h2>
-<h3>Front-end Developer </h3>
+<h3>Junior front-end Developer </h3>
 from Sofia, Bulgaria <br/>
 I am a very positive, open-minded and curious person.<br/> 
 <br/>
